@@ -72,7 +72,7 @@ if(isset($_POST['nome'])) {
 		font-family: 'Inconsolata', 'Arial', 'Sans-serif';
 		font-weight: normal;
 		color: #fdc64b;
-		\"><center><span>Aconteceu algum erro!</span><p>Você pode tentar novamente ou enviar direto para " . "joannaliins@gmail.com" . "!</p></center></h2>";
+		\"><center><span>Aconteceu algum erro!</span><p>Você pode tentar novamente ou enviar direto para " . "#@gmail.com" . "!</p></center></h2>";
 
 		print "<html style=\"background: #fff;\"></html>";
 		print "<meta HTTP-EQUIV='Refresh' CONTENT='10;URL=" . $site_url . "'>";

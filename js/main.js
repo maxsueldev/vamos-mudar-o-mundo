@@ -39,7 +39,7 @@ $(document).ready(function(){
 // Formulário site principal e newsllater
 
 $('.formphp').on('submit', function() {
-	var emailContato = "joannaliins@gmail.com"; //Escrever o email 
+	var emailContato = "#@gmail.com"; //Escrever o email 
 
 	var that = $(this),
 		url = that.attr('action'),
@@ -92,7 +92,7 @@ $('.formphp').on('submit', function() {
 // Formulário contato Blog (contato.php)
 
 $('.formphp_blog').on('submit', function() {
-	var emailContato = "joannaliins@gmail.com"; //Escrever o email 
+	var emailContato = "#@gmail.com"; //Escrever o email 
 
 	var that = $(this),
 		url = that.attr('action'),
